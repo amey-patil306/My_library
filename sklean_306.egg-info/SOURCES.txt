@@ -1,5 +1,0 @@
-setup.py
-sklean_306.egg-info/PKG-INFO
-sklean_306.egg-info/SOURCES.txt
-sklean_306.egg-info/dependency_links.txt
-sklean_306.egg-info/top_level.txt
